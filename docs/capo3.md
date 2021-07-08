@@ -37,10 +37,24 @@ I documenti di riferimento per l’esercizio del controllo strategico sono essen
 ## Art. 12 - Modalità del controllo strategico
 Sulla base degli obiettivi strategici individuati dall’Amministrazione, contenuti nel D.U.P., l’Unità preposta al controllo strategico opera il monitoraggio e la verifica degli obiettivi medesimi tramite l’analisi degli obiettivi operativi specifici connessi a ciascun obiettivo strategico, con il supporto dei Dirigenti dell’Ente.
 Per ciascun obiettivo operativo specifico individuato, contenuti nel Piano della Performance, i dirigenti producono, secondo la tempistica indicata dall’Unità di cui al comma recedente, rapporti sintetici contenenti:
+
 a) informazioni sullo stato di attuazione degli obiettivi ad essi assegnati, quali:
    - il grado di raggiungimento ad una certa data,
    - i tempi di realizzazione,
    - gli eventuali fattori ostativi al raggiungimento dell’obiettivo programmato
    - l’indicazione di fattori correttivi eventualmente individuati e/o posti in essere,
+
 b) un’analisi sugli aspetti economico-finanziari e socio-economici connessi ai risultati conseguiti (l’outcome prodotto),
+
 c) un’analisi sull’efficienza nell’impiego delle risorse e sul rispetto dei vincoli di contenimento della spesa.
+
+
+## Art. 13 - Periodicità del controllo strategico
+L’Unità preposta al controllo strategico effettua semestralmente il monitoraggio degli obiettivi operativi specifici sulla base di idonei report dei dirigenti, al fine di suggerire l’adozione di eventuali azioni correttive o la rimodulazione degli obiettivi non raggiungibili per sopravvenute cause esogene.
+Sulla base di idonei report dei dirigenti, l’Unità preposta al controllo strategico effettua altresì il monitoraggio degli obiettivi strategici definiti dall’Ente con le seguenti cadenze:
+
+- **annuale**, a conclusione dell’esercizio quale rendicontazione del grado di raggiungimento degli obiettivi operativi specifici;
+
+- **a metà mandato amministrativo**, anche funzionalmente alla eventuale ridefinizione degli obiettivi strategici;
+
+- **a fine mandato amministrativo**.
