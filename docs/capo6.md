@@ -51,3 +51,30 @@ I risultati complessivi della gestione dell’ente locale e delle società parte
 7. Il Servizio preposto alla programmazione ed al controllo sugli organismi partecipati secondo il R.O.U.S. vigente effettua il controllo economico-finanziario di cui al Titolo III del presente Regolamento. In occasione dell’approvazione del rendiconto annuale, il Dirigente trasmette al Sindaco, alla Giunta comunale, al Presidente del Consiglio comunale al fine della trasmissione ai gruppi consiliari ed al Presidente del Collegio dei revisori, un report sintetico che dia contezza dell’esito delle attività di controllo di economico-finanziario.
 8. I Servizi competenti per la gestione dei relativi contratti di servizio secondo il R.O.U.S. vigente effettuano il controllo di efficienza e di efficacia di cui al Titolo IV del presente Regolamento. In occasione dell’approvazione del rendiconto annuale, i Dirigenti competenti trasmettono al Sindaco, alla Giunta comunale, al Presidente del Consiglio comunale ed al Presidente del Collegio dei revisori, un report sintetico che dia contezza dell’esito delle attività di controllo di efficienza e di efficacia.
 9. Il Servizio competente alla redazione del Bilancio consolidato secondo il R.O.U.S. vigente presidia la creazione e la gestione del sistema informativo di cui all’art.30, finalizzato a rilevare la situazione contabile, gestionale, organizzativa delle società partecipate in funzione della redazione del bilancio consolidato del Comune di Palermo secondo principi di competenza economica. Con cadenza semestrale il Dirigente del servizio preposto trasmette al Sindaco, alla Giunta comunale, al Presidente del Consiglio comunale al fine della trasmissione ai gruppi consiliari ed al presidente del Collegio dei revisori, un report sintetico che dia contezza dello stato della gestione del predetto sistema informativo.
+10. I dati presenti nel sistema informativo sono utilizzati dai competenti uffici per i controlli disciplinati dal presente Regolamento.
+11. Il Comune, per il tramite del rappresentante legale, o suo delegato, può richiedere la convocazione dell’assemblea dei soci, nel rispetto dei tempi e delle modalità previste nello statuto delle società facendone espressa e formale richiesta al Presidente.
+12. Il Comune, per il tramite del rappresentante legale, o suo delegato, può richiedere, in qualunque momento, la convocazione del Consiglio di Amministrazione, facendone esplicita richiesta al Presidente.
+
+
+
+## Art. 32 – Linee di indirizzo e Piano Industriale
+1. Il Consiglio di Amministrazione della società trasmette al Comune entro il 30 giugno di ogni anno il piano industriale triennale, che deve contenere le direzioni strategiche della società, i principali obiettivi economici e finanziari, le azioni che saranno intraprese per permettere il raggiungimento dei risultati attesi, le nuove iniziative, gli investimenti previsti e i relativi impatti sulle performance aziendali.
+2. I contenuti del piano industriale devono essere raggruppati nelle seguenti macro categorie:
+- Obiettivi di massima dell’azienda e analisi del contesto aziendale ed ambientale.
+- Direttrici strategiche (posizionamento strategico dell’azienda, fattori critici di successo, vantaggi competitivi, linee di crescita interna e/o esterna).
+- Obiettivi economici (identificazione degli obiettivi in termini di ricavi, utili, costi, etc. sia a livello consolidato che per aree di attività).
+- Decisioni di marketing (segmento di business, scelte di prezzo, volumi previsti, canali distributivi etc.).
+- Aspetti organizzativi relativi al personale e alla struttura organizzativa (piano degli acquisiti, valutazione del fabbisogno di risorse umane e delle competenze necessarie, politiche del personale, espressione della struttura organizzativa finale).
+- Decisioni di finanziamento (piano degli investimenti con le ricadute operative e con l’indicazione dei costi relativi alla capacità produttiva, rappresentazione della coerenza degli investimenti previsti con gli obiettivi di produzione e con i criteri di ottimizzazione dei costi, etc.).
+3. Il piano industriale deve essere certificato dal Collegio Sindacale e dal Revisore legale.
+4. Il Servizio preposto alla programmazione e controllo degli organismi partecipati, entro trenta giorni dalla ricezione ed effettuate le opportune verifiche sul documento prodotto dalla società, sottopone al Consiglio comunale la proposta di deliberazione per l’approvazione del piano industriale triennale.
+5. Il Consiglio comunale approva la proposta di piano industriale triennale entro il 30 settembre, di ogni anno, previo parere del Collegio dei Revisori, in coerenza con le linee di indirizzo e gli obiettivi che intende fornire alla società partecipata.
+
+
+## Art.33 – Tipologia di controlli
+1. L’Amministrazione definisce le modalità di vigilanza e di controllo delle società partecipate con l’obiettivo di delineare un quadro completo delle informazioni che i componenti degli organi di governo delle società partecipate sono tenuti a fornire al Comune a tale fine.
+2. Il Comune esercita le seguenti tipologie di controllo:
+   - a) Controllo societario.
+   - b) Controllo economico/finanziario.
+   - c) Controllo di efficienza, efficacia ed economicità della gestione.
+   - d) Controllo ispettivo ed informativo.
