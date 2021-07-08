@@ -151,3 +151,30 @@ Onde prevenire il determinarsi di disallineamenti contabili a chiusura dell’es
    - b) Mancato rispetto di due scadenze: riduzione del 20% del compenso annuo.
    - c) Mancato rispetto di tre o più scadenze: riduzione del 40% del compenso annuo.
 Il compenso annuo di ciascuno dei componenti del Consiglio di amministrazione è ridotto di un importo pari al 30% nel caso in cui la società non raggiunga il pareggio economico.
+
+
+### Titolo IV - Controllo di efficienza ed efficacia
+
+## Art. 43 – Modalità di esercizio del controllo
+Il Comune esercita il controllo di efficacia ed efficienza sulle società partecipate:
+   - a) Ex ante attraverso la definizione del contratto di servizio e della carta dei servizi; 
+   - b) Concomitante attraverso l’analisi dei report periodici sullo stato di attuazione degli obiettivi e sul rispetto degli standard quali-quantitativi previsti per le attività di servizio; 
+   - c) Ex post attraverso la misurazione della qualità dei servizi erogata e percepita.
+Per l’esercizio di detto controllo l’Amministrazione si avvale degli Uffici competenti per materia, così come individuati dal Regolamento Uffici e Servizi.
+
+
+## Art. 44 – Controllo ex ante
+Contratto di servizio
+Il contratto di servizio rappresenta lo strumento fondamentale attraverso il quale sono disciplinati i rapporti giuridici tra l’Ente e le Società partecipate strumentali e/o affidatarie di servizi pubblici locali esternalizzati secondo le modalità previste dalla normativa comunitaria, dal D. Lgs 267/2000 e s.m.i., dalle normative di settore.
+I contratti di servizio possono contenere tutte le clausole ritenute più idonee al conseguimento degli obiettivi preposti dall’Amministrazione, comprese eventuali clausole sanzionatorie da applicarsi nei casi d’inadempimento degli obblighi assunti, ma devono contenere obbligatoriamente:
+1. Termini temporali del rapporto;
+2. I livelli di servizio erogati;
+3. Le modalità di espletamento del servizio;
+4. I regimi e i livelli tariffari;
+5. Il corrispettivo dovuto e le modalità di pagamento;
+6. L’obbligo per il gestore di pubblici servizi di adottare, pubblicare, applicare e diffondere la Carta dei Servizi;
+7. L’obbligo per il gestore di monitorare, in relazione agli standard stabiliti, la qualità del servizio erogato e la qualità del servizio percepito dall’utenza;
+8. Le modalità di verifica del rispetto degli obblighi contrattuali da effettuarsi tramite rapporti periodici e con l’attivazione di cruscotti informatizzati, resi disponibili in modalità web, all’ufficio competente che potrà disporre di tutte le informazioni necessarie;
+9. Penali da applicare proporzionalmente in rapporto all’inadempimento o al mancato rispetto dei livelli di servizio concordati.
+Lo schema di contratto dei servizi è approvato dalla Giunta Comunale nel rispetto delle linee d’indirizzo e degli obiettivi contenuti nei documenti di programmazione dell’Ente deliberati dal Consiglio Comunale.
+I contratti di servizio dovranno essere revisionati ove necessario in ragione di sopravvenute nuove prescrizioni introdotte dal modificato quadro normativo.
