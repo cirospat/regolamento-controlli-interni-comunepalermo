@@ -1,6 +1,6 @@
-# REGOLAMENTO UNICO DEI CONTROLLI INTERNI DEL COMUNE DI PALERMO
+# Regolamento unico dei controlli interni del Comune di Palermo
 
-[**Regolamento**](https://www.comune.palermo.it/regolamenti.php?tag=29&reg=110) approvato con Deliberazione di Consiglio Comunale n. 4 del 09/02/2017
+[**Regolamento**](https://www.comune.palermo.it/regolamenti.php?tag=29&reg=110) approvato con Deliberazione di Consiglio Comunale n. 4 del 09.02.2017
 
 ![](https://www.comune.palermo.it/img/aqu.png)
 
