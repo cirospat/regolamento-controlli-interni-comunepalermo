@@ -13,6 +13,7 @@ Il controllo di regolarità contabile si svolge nella fase preventiva della form
 Il dirigente responsabile del servizio procedente esercita il controllo preventivo di regolarità amministrativa ed esprime il proprio positivo parere di regolarità tecnica attestante la legittimità, regolarità e correttezza dell’azione amministrativa, con la sottoscrizione dell’atto/provvedimento.
 Il Responsabile del servizio finanziario rilascia il visto di regolarità contabile attestante la copertura finanziaria secondo le modalità indicate nel regolamento di contabilità nel tempo vigente.
 Sulle proposte di determinazioni sindacali, il Segretario Generale o suo delegato, per il tramite di un Ufficio appositamente istituito all’interno del proprio Staff, verifica che:
+
    - a) l’atto rientri tra le competenza del Sindaco;
    
    - b) la proposta sia formulata dal dirigente del servizio competente per materia;
@@ -43,6 +44,7 @@ Qualora la Giunta abbia ugualmente adottato il provvedimento deliberativo propos
 1. Il controllo di regolarità amministrativa in fase successiva si svolge secondo i principi generali di revisione aziendale che assicurino trasparenza, imparzialità ed obiettività nell’attività di controllo.
 2. Il controllo di regolarità amministrativa in fase successiva si attua sotto la direzione del Segretario Generale, che a tal fine si avvale di apposita struttura organizzativa operante presso l’Ufficio di Staff del Segretario Generale e composta da personale dallo stesso individuato. La composizione della predetta struttura potrà essere integrata per la partecipazione alle singole sedute, con disposizione del Segretario Generale, da personale appartenente a strutture diverse dalla Segreteria Generale.
 3. Sono soggette al controllo successivo:
+   
    - a) le determinazioni dirigenziali di impegno di spesa;
    
    - b) i contratti non stipulati in forma pubblica amministrativa con l’intervento del Segretario Generale, quale ufficiale rogante;
