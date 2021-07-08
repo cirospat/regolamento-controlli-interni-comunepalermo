@@ -125,3 +125,29 @@ I risultati complessivi della gestione dell’ente locale e delle società parte
    - d) La proposta di deliberazione deve essere inoltrata al Ragioniere Generale, per i pareri di rito da esprimersi ed al Collegio dei revisori. 
    - e) La Giunta comunale delibera l’atto entro il 30 ottobre e lo invia al Consiglio comunale per l’adozione finale entro il 15 dicembre, previo parere motivato obbligatorio del Collegio dei revisori che dovrà esprimersi entro 15 giorni dalla ricezione della proposta di deliberazione.
 2. Qualora il Consiglio comunale non deliberi le linee di indirizzo e il piano industriale di cui all’articolo 32, le società provvederanno comunque a predisporre la documentazione di cui al presente articolo secondo quanto deliberato dalla Giunta comunale.
+
+
+## Art. 40 – Controllo concomitante
+1. Il Consiglio di Amministrazione della società partecipata trasmette all’Amministrazione comunale e al Presidente del Consiglio Comunale, al fine della trasmissione ai gruppi consiliari, report trimestrali entro la fine del mese successivo la scadenza del trimestre, nei quali viene illustrato l’andamento economico-finanziario nel periodo di riferimento e la rilevazione degli scostamenti rispetto al budget.
+2. I report dovranno contenere un’accurata analisi quantitativa e descrittiva delle cause che hanno determinato gli scostamenti rispetto al budget.
+3. I report devono anche contenere lo stato di attuazione di budget e piani industriali gli eventuali aggiornamenti dei dati di budget.
+4. I report vengono trasmessi dagli uffici, effettuata l’istruttoria sulla documentazione prodotta dalla società, al Consiglio comunale ed alla Giunta comunale entro 30 giorni dalla ricezione.
+Onde prevenire il determinarsi di disallineamenti contabili a chiusura dell’esercizio, ai fini della verifica di cui all’art. 11, comma 6, lett. j), del D.Lgs. n. 118 del 2011, entro il 30/07 dovrà essere inoltre trasmessa la situazione analitica intermedia delle partite creditorie e debitorie nei confronti del Comune riferita al 30/06 dell’esercizio in corso. Il servizio competente provvede alla verifica con le risultanze contabili dell’ente ad effettuare le necessarie segnalazioni all’ente ed alle società.
+5. Relazione semestrale sull’andamento della situazione economica/finanziaria e patrimoniale riferita al primo semestre entro il 31 luglio di ogni anno, certificata dal collegio sindacale e dal soggetto deputato all’esercizio del controllo analogo.
+
+
+## Art. 41 – Controllo ex post
+1. Il Consiglio di Amministrazione della società trasmette al Servizio preposto alla programmazione e controllo degli organismi partecipati il progetto di bilancio almeno trenta giorni prima della data prevista per l’approvazione da parte dell’Assemblea. La trasmissione del progetto di bilancio è preceduta dalla trasmissione della situazione analitica dei crediti e debiti della società al 31/12 dell’esercizio di riferimento entro e non oltre il 31/01 dell’anno successivo ai fini della definitiva ai fini della verifica di cui all’art. 11, comma 6, lett. j), del D.Lgs. n. 118 del 2011 e dell’asseverazione della relativa nota informativa da parte degli organi di revisione.
+2. Il Servizio preposto alla programmazione e controllo degli organismi partecipati redige una relazione sul progetto di bilancio contenente, anche sulla base della relazione del Revisore Legale ex art.14 del d.lgs. 27/01/2010 n.39 e della relazione del Collegio Sindacale ex art.2429, comma 2°, del codice civile, le indicazioni necessarie per consentire al socio o al soggetto delegato a rappresentare il Comune in Assemblea di assumere le decisioni ritenute appropriate per l’approvazione del bilancio.
+3. Il Ragioniere generale, d’intesa con il Dirigente del Servizio Bilancio e Bilancio consolidato e il Servizio deputato al controllo consuntivo, provvede alla certificazione della copertura finanziaria dei crediti iscritti nel progetto di bilancio nei confronti del Comune.
+4. Ai fini della salvaguardia degli equilibri finanziari dell’Ente, gli Uffici competenti informeranno il Ragioniere generale in merito ai disallineamenti sulle partite creditorie e debitorie per le conseguenti iniziative.
+5. Gli altri enti hanno l’obbligo di trasmettere al Servizio preposto alla programmazione e controllo degli organismi partecipati il progetto di bilancio deliberato dall’Organo amministrativo almeno dieci giorni prima della data prevista per l’approvazione da parte dell’Assemblea e ogni altro atto, documento e/o informazione eventualmente richiesti dall’Amministrazione comunale.
+6. I progetti di bilancio sono trasmessi al Collegio dei Revisori entro 30 giorni dalla ricezione degli stessi.
+
+
+## Art. 42 – Sanzioni
+1. Il mancato rispetto delle scadenze di cui ai precedenti articoli 32, 39, 40 e 41 comporta l’applicazione di sanzioni per ciascuno dei componenti del Consiglio di amministrazione come segue:
+   - a) Mancato rispetto di una scadenza: riduzione del 10% del compenso annuo.
+   - b) Mancato rispetto di due scadenze: riduzione del 20% del compenso annuo.
+   - c) Mancato rispetto di tre o più scadenze: riduzione del 40% del compenso annuo.
+Il compenso annuo di ciascuno dei componenti del Consiglio di amministrazione è ridotto di un importo pari al 30% nel caso in cui la società non raggiunga il pareggio economico.
