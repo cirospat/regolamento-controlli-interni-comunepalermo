@@ -48,12 +48,12 @@
 |  └─ Art. 27 – Risultanze del controllo
 └─ CAPO VI - IL CONTROLLO SULLE SOCIETÀ PARTECIPATE NON QUOTATE
 |  └─ Art. 28 – Oggetto
-|  └─ Art.29 – Ambito di applicazione
+|  └─ Art. 29 – Ambito di applicazione
 |  └─ Art. 30 – Finalità
 |  └─ Art. 31 – Competenze in materia di indirizzo e controllo 
 |               delle società partecipate
 |  └─ Art. 32 – Linee di indirizzo e Piano Industriale
-|  └─ Art.33 – Tipologia di controlli
+|  └─ Art. 33 – Tipologia di controlli
 |  └─ Art. 34 – Principi ispiratori delle società ed enti partecipati
 |  └─ Art. 35 – Cabina di regia delle aziende partecipate
 |  └─ Art. 36 – Normativa in materia di prevenzione della corruzione 
