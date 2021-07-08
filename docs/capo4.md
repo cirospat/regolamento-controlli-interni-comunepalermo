@@ -100,5 +100,8 @@ La Ragioneria Generale cura la predisposizione dei conti economici sopradetti, m
 - nonché alla sezione regionale di controllo della Corte dei Conti.
 - al Presidente del Consiglio Comunale e per suo tramite ai gruppi consiliari.
 Degli esiti di tale controllo si tiene conto anche ai fini della redazione del Referto ex art. 148 del D. Lgs. 267/00 da inviare alla Sezione di Controllo della Corte dei Conti, di cui al successivo art.53.
-   
+
+
+
+
    
