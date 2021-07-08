@@ -104,6 +104,7 @@ Le azioni correttive che si rendono necessarie dalle risultanze delle customer s
 ## Art. 25 - Il Piano della Qualità
 L’Amministrazione Comunale in ragione degli obiettivi strategici e al fine di mantenere elevati gli standard di qualità dei servizi erogati, redige il Report della Qualità denominato Piano della Qualità, con cadenza di norma annuale.
 La redazione del Piano è curata dall’Ufficio Controllo di Qualità che lo sottopone annualmente all’approvazione della Giunta Comunale.
+
 Il Piano della Qualità
 - contiene le risultanze della misurazione della qualità resa per tutti i servizi dell’Ente rilevate attraverso l’aggiornamento della Carta dei Servizi nell’anno precedente;
 - contiene le risultanze della misurazione della qualità percepita attraverso le indagini di Customer Satisfaction effettuate nell’anno precedente;
