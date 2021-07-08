@@ -1,6 +1,6 @@
 # CAPO VI - IL CONTROLLO SULLE SOCIETÀ PARTECIPATE NON QUOTATE
 
-Titolo I - Principi Generali
+### Titolo I - Principi Generali
 
 ## Art. 28 – Oggetto
 Il presente Titolo disciplina le attività di vigilanza e controllo esercitate dal Comune di Palermo (d’ora innanzi “Comune” o “Amministrazione”) sulle società ed enti partecipati (d’ora innanzi anche “società partecipate” o “società”), nell’ambito dei generali poteri autoritativi e della specifica potestà normativa conferita all’Ente locale dall’ordinamento giuridico.
@@ -78,3 +78,50 @@ I risultati complessivi della gestione dell’ente locale e delle società parte
    - b) Controllo economico/finanziario.
    - c) Controllo di efficienza, efficacia ed economicità della gestione.
    - d) Controllo ispettivo ed informativo.
+
+
+## Art. 34 – Principi ispiratori delle società ed enti partecipati
+1. Le società partecipate si ispirano a principi di legalità, trasparenza, efficienza ed economicità.
+2. Tutte le attività inerenti l’organizzazione e la gestione dei servizi generali, l’assunzione e l’organizzazione del personale, l’affidamento di incarichi professionali e le procedure di acquisizione di beni e servizi devono essere uniformati ai principi di carattere generali vigenti per la Pubblica amministrazione ed alla normativa specifica destinata a regolamentare l’attività delle società a totale o parziale partecipazione pubblica. Tali attività sono autorizzate dalla Giunta comunale in sede di approvazione delle proposte di piano industriale e di budget.
+3. Le società partecipate devono dotarsi di appositi regolamenti, approvati dal Consiglio di amministrazione, in materia di acquisizione di risorse umane e di affidamento di incarichi professionali, di definizione ed individuazione della struttura organizzativa degli uffici, di valutazione delle prestazioni individuali ai fini della retribuzione accessoria, di esecuzione dei lavori in economia, di acquisizione di forniture di beni e appalti di servizi.
+4. Le società partecipate del Comune di Palermo devono, in ogni caso, rispettare le norme di cui al D.Lgs. n. 50/2016 e s.m.i. per l’acquisto di beni e servizi e le norme di cui al decreto legislativo 165/2001 e s.m.i., per i criteri e le modalità di reclutamento del personale.
+5. Le società partecipate del Comune di Palermo devono rispettare tutte le altre norme emanate dal legislatore comunitario, nazionale e regionale.
+
+## Art. 35 – Cabina di regia delle aziende partecipate
+1. La Cabina di regia delle aziende partecipate si riunisce almeno una volta al mese con il compito di coordinare, nel rispetto delle linee di indirizzo e degli obiettivi gestionali definiti dal Consiglio comunale, la pianificazione e la programmazione delle attività societarie, le scelte strategiche concernenti i servizi esternalizzati alle società partecipate, mirando a garantire la continuità dei servizi pubblici essenziali per i cittadini e dei servizi strumentali al Comune e perseguendo al contempo obiettivi di contenimento dei costi.
+2. La Cabina di regia è coordinata dall’Assessore delegato d’intesa con il Sindaco; alle riunioni partecipano il Sindaco, l’Assessore Coordinatore delegato, gli Assessori al ramo competenti con delega funzionale ai rapporti con le società partecipate, i Dirigenti competenti per la gestione del contratto di servizio, il Dirigente del Servizio preposto alla programmazione ed al controllo sugli organismi partecipati, i Presidenti dei Consigli di amministrazione, i direttori, ove nominati ed i vertici dirigenziali delle società partecipate che svolgono servizi pubblici locali e servizi strumentali.
+3. I verbali della Cabina sono trasmessi al Consiglio comunale e sono pubblicati sul sito del Comune di Palermo al fine di garantire trasparenza e pubblicità.
+
+
+## Art. 36 – Normativa in materia di prevenzione della corruzione e trasparenza da parte delle società e degli enti di diritto privato controllati e partecipati
+1. Alle società partecipate ed altri enti si applica la disciplina prevista per le pubbliche amministrazioni in materia di prevenzione della corruzione e trasparenza così come previsto dalla normativa vigente.
+2. Le società partecipate e gli altri enti devono attenersi alle disposizioni di legge ed alle linee guida emanate dall’Autorità Nazionale Anticorruzione per l’attuazione della normativa in materia di prevenzione della corruzione e trasparenza da parte delle società e degli enti di diritto privato controllati e partecipati dalle pubbliche amministrazioni e degli enti pubblici economici.
+
+
+### Titolo II - Controllo societario 
+
+
+## Art. 37 – Funzione di indirizzo e controllo del Consiglio Comunale
+1. Il Consiglio comunale esercita la funzione di indirizzo e controllo sulle attività delle società partecipate adottando proprie deliberazioni come disposto agli articoli 31 e 32 del presente Regolamento.
+2. Il Consiglio comunale è informato della situazione delle singole partecipate attraverso le relazioni prodotte dagli uffici comunali competenti secondo quanto previsto dal presente Regolamento e dai rispettivi organi di controllo interni ed esterni.
+
+
+### Titolo III - Controllo economico-finanziario 
+
+
+## Art. 38 – Modalità di esercizio del controllo
+1. Il Comune esercita il controllo economico-finanziario sulle società partecipate attraverso il monitoraggio:
+   - a) Ex ante sulle proposte di budget;
+   - b) Concomitante sui report periodici economico-finanziari sullo stato di attuazione del budget e del piano industriale;
+   - c) Ex post sui bilanci di esercizio individuali e i bilanci consolidati ove esistenti.
+2. L’Amministrazione può richiedere alle società tutte le informazioni di dettaglio e i dati extracontabili ritenuti utili all’esercizio del controllo economico-finanziario.
+
+
+## Art. 39 – Controllo ex ante
+1. La Giunta comunale esercita, nel rispetto delle linee di indirizzo e degli obiettivi deliberati dal Consiglio comunale con l’approvazione del piano industriale, il controllo sui documenti programmatici delle società ed enti partecipati. A tal fine:
+   - a) Il Consiglio di Amministrazione della società trasmette al Comune, entro il 30 settembre di ogni anno, la proposta di budget certificata dal Collegio Sindacale e dal Revisore legale, unitamente alla nota di aggiornamento del Piano industriale.
+   - b) Il budget deve essere redatto per centri di costo e centro di responsabilità amministrativa con l’indicazione dei dirigenti responsabili e non può prevedere utilizzo di risorse in esubero rispetto a quelle assegnate dal Comune dell’ambito del contratto di servizio vigente e degli altri servizi commissionati dall’Amministrazione in virtù di apposite convenzioni.
+   - c) Il Servizio preposto alla programmazione e controllo degli organismi partecipati, effettuata l’istruttoria sulla documentazione prodotta dalla società, sottopone alla Giunta comunale la proposta di deliberazione per l’approvazione del budget entro trenta giorni dalla ricezione. 
+   - d) La proposta di deliberazione deve essere inoltrata al Ragioniere Generale, per i pareri di rito da esprimersi ed al Collegio dei revisori. 
+   - e) La Giunta comunale delibera l’atto entro il 30 ottobre e lo invia al Consiglio comunale per l’adozione finale entro il 15 dicembre, previo parere motivato obbligatorio del Collegio dei revisori che dovrà esprimersi entro 15 giorni dalla ricezione della proposta di deliberazione.
+2. Qualora il Consiglio comunale non deliberi le linee di indirizzo e il piano industriale di cui all’articolo 32, le società provvederanno comunque a predisporre la documentazione di cui al presente articolo secondo quanto deliberato dalla Giunta comunale.
