@@ -8,27 +8,32 @@
 
 ## Indice
 
+```
 .
 ├─ CAPO I - DISPOSIZIONI GENERALI
 │  └─ Art. 1 - Oggetto del regolamento
 |  └─ Art. 2 – Sistema dei controlli interni e finalità
 └─ CAPO II - IL CONTROLLO INTERNO DI REGOLARITÀAMMINISTRATIVA E CONTABILE
 |  └─ Art. 3 – Controllo di regolarità amministrativa e contabile
-|  └─ Art. 4 – Controllo di regolarità amministrativa e contabile in fase preventiva
+|  └─ Art. 4 – Controllo di regolarità amministrativa e contabile in 
+|              fase preventiva
 |  └─ Art. 5 - Controllo di regolarità amministrativa in fase successiva
-|  └─ Art. 6 – Modalità del controllo di regolarità amministrativa in fase successiva
+|  └─ Art. 6 – Modalità del controllo di regolarità amministrativa 
+|              in fase successiva
 |  └─ Art. 7 – Risultanze del controllo
 └─ CAPO III - IL CONTROLLO STRATEGICO
 |  └─ Art. 8 – Definizione del controllo strategico
 |  └─ Art. 9 – Finalità del controllo strategico
 |  └─ Art. 10 - Soggetti del controllo strategico
-|  └─ Art. 11 - Documenti di riferimento del controllo strategico
+|  └─ Art. 11 - Documenti di riferimento del 
+|               controllo strategico
 |  └─ Art. 12 - Modalità del controllo strategico
 |  └─ Art. 13 - Periodicità del controllo strategico
 └─ CAPO IV - IL CONTROLLO DI GESTIONE
 |  └─ Art. 14 - Definizione del controllo di gestione
 |  └─ Art. 15 - Finalità del controllo di gestione
-|  └─ Art. 16 - La struttura organizzativa del controllo di gestione
+|  └─ Art. 16 - La struttura organizzativa del 
+|               controllo di gestione
 |  └─ Art. 17 - Modalità del controllo di gestione
 |  └─ Art. 18 – Il Sistema degli indicatori
 |  └─ Art. 19 – Raccolta dati e sinergie
@@ -45,12 +50,14 @@
 |  └─ Art. 28 – Oggetto
 |  └─ Art.29 – Ambito di applicazione
 |  └─ Art. 30 – Finalità
-|  └─ Art. 31 – Competenze in materia di indirizzo e controllo delle società partecipate
+|  └─ Art. 31 – Competenze in materia di indirizzo e controllo 
+|               delle società partecipate
 |  └─ Art. 32 – Linee di indirizzo e Piano Industriale
 |  └─ Art.33 – Tipologia di controlli
 |  └─ Art. 34 – Principi ispiratori delle società ed enti partecipati
 |  └─ Art. 35 – Cabina di regia delle aziende partecipate
-|  └─ Art. 36 – Normativa in materia di prevenzione della corruzione e trasparenza da parte delle società e 
+|  └─ Art. 36 – Normativa in materia di prevenzione della corruzione 
+|               e trasparenza da parte delle società e 
 |               degli enti di diritto privato controllati e partecipati
 |  └─ Art. 37 – Funzione di indirizzo e controllo del Consiglio Comunale
 |  └─ Art. 38 – Modalità di esercizio del controllo
@@ -66,11 +73,12 @@
 |  └─ Art. 48 – Poteri ispettivi
 |  └─ Art. 49 – Richiesta rapporti, dati ed informazioni
 |  └─ Art. 50 – Referto sul controllo ispettivo ed informativo
-|  └─ Art. 51 – Gruppo di controllo dell’efficienza degli addetti alle partecipate
+|  └─ Art. 51 – Gruppo di controllo dell’efficienza degli addetti 
+|               alle partecipate
 └─ CAPO VII
 |  └─ Art. 52 –Il controllo sugli equilibri finanziari
 └─ CAPO VIII
 |  └─ Art. 53 – Risultanze dei controlli interni
 |  └─ Art. 54 – Norme di rinvio e finali
 |  └─ Art. 55 – Entrata in vigore
-
+```
