@@ -24,7 +24,9 @@ c) Contribuisce ad orientare nuovamente la gestione.
 
 ## Art. 16 - La struttura organizzativa del controllo di gestione
 Il controllo di gestione è espletato da apposita struttura a ciò deputata e allocata all’interno dell’Area competente secondo il vigente regolamento sull’ordinamento degli uffici e dei servizi che, al fine di agire in modo coordinato ed integrato, si avvale dell’apporto operativo di apposito personale individuato dai Dirigenti responsabili di ciascuna struttura dell’Ente, come Referente per la rilevazione e la raccolta dei dati e delle informazioni necessarie per la realizzazione dei report settoriali.
+
 I Responsabili delle strutture organizzative dell’Ente hanno l’obbligo di dare seguito a tutte le richieste, provenienti dall’Unità preposta al controllo di gestione, di invio di atti e documenti, nonché tutte le informazioni utili alle verifiche sulle attività svolte e sui risultati conseguiti, corredate dai dati quantitativi e qualitativi ponendoli in relazione con gli obiettivi e le risorse assegnate.
+
 In caso di rilevazione di scostamenti negativi i responsabili delle strutture organizzative interessate dovranno trasmettere all’Unità preposta al controllo di gestione anche un’apposita analisi dettagliata delle cause di tali scostamenti, indicando gli interventi correttivi eventualmente già posti in essere o che si propongono per eliminare le non conformità rilevate.
 Il mancato adempimento da parte dei Dirigenti, oltre ad avere refluenze sulla valutazione come previsto dal successivo art. 53, è passibile di responsabilità personale davanti le Autorità competenti.
 L’Unità preposta al controllo di gestione, ai fini dello svolgimento dell’attività, si avvale:
@@ -37,5 +39,23 @@ L’Unità preposta al controllo di gestione, ai fini dello svolgimento dell’a
 
 - del sistema informativo di contabilità analitica per centri di costo.
 
+L'Amministrazione Comunale si dota di un sistema di Contabilità analitica, avvalendosi di un apposito software che si integra con i sistemi informatici di contabilità esistenti, finalizzato alle necessarie rilevazioni, sulla base delle indicazioni fornite dal Direttore Generale, ove nominato, ovvero dal Segretario Generale.
+Tenendo conto della complessità del processo, legata soprattutto alle dimensioni dell’organizzazione, potrà essere definito, a tale scopo, un percorso graduale che preveda una fase transitoria, della durata massima di un triennio, costituita da un sistema misto che affianchi le informazioni del sistema contabile con rilevazioni di dati costo e di ricavo rilevate ed imputate extra contabilmente agli oggetti di riferimento.
+
+Spetta al Settore Finanziario la predisposizione del *conti economici dei servizi a domanda individuale* che costituiscono, unitamente agli ulteriori servizi per i quali viene effettuata la rilevazione della relativa economicità, apposita sezione del Rapporto di Gestione predisposto dall’Unità preposta al controllo di gestione, da sottoporre all’approvazione della Giunta Comunale congiuntamente, qualora i tempi di definizione coincidano.
 
 
+
+## Art. 17 - Modalità del controllo di gestione
+Le procedure del controllo di gestione si articolano in tre fasi:
+
+a) la programmazione
+
+b) la raccolta dei dati
+
+c) la verifica dei risultati ottenuti
+
+   a) la programmazione: è l’attività fondamentale di tutto il sistema del controllo di gestione, in quanto la presenza di obiettivi predefiniti è condizione imprescindibile per l’attività di controllo dei risultati. E’ la fase in cui, attraverso l’approvazione da parte della Giunta Comunale del Piano esecutivo di gestione e del Piano della Performance in esso contenuto, vengono assegnate ai centri di responsabilità (Aree/Settori/Servizi/Uffici) le risorse finanziarie e gli obiettivi finalizzati a concretizzare le strategie dell’Ente.
+Per la misurazione del raggiungimento degli obiettivi operativi si dovranno individuare appositi indicatori tra le tipologie descritte all’articolo successivo.
+   b) la raccolta dei dati: consiste in periodiche rilevazioni mediante la raccolta e l’elaborazione dei dati gestionali (contabili ed extracontabili) relativi all’oggetto del controllo e comunque, almeno una volta l’anno a consuntivo;
+   c) la verifica dei risultati ottenuti e refertazione finale: consiste nell’analisi ed elaborazione dei dati raccolti al fine dell’accertamento del grado di raggiungimento degli obiettivi operativi di PEG, mediante confronto tra valore preventivato e valore effettivo e nella predisposizione dei conti economici riferiti ai servizi a domanda individuale e del Rapporto di Gestione destinato agli Amministratori, al Direttore Generale ove nominato, al Segretario Generale, ai dirigenti ed al Nucleo di Valutazione, o analogo Organismo Indipendente di Valutazione, nonché alla sezione regionale di controllo della Corte dei Conti, così come previsto dagli artt. 198 e 198 bis del D. Lgs. n. 267/00.
