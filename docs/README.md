@@ -75,9 +75,9 @@
 |  └─ Art. 50 – Referto sul controllo ispettivo ed informativo
 |  └─ Art. 51 – Gruppo di controllo dell’efficienza degli addetti 
 |               alle partecipate
-└─ CAPO VII
+└─ CAPO VII - CAPO VII - IL CONTROLLO SUGLI EQUILIBRI FINANZIARI
 |  └─ Art. 52 –Il controllo sugli equilibri finanziari
-└─ CAPO VIII
+└─ CAPO VIII - RISULTANZE DAI CONTROLLI E DISPOSIZIONI FINALI
 |  └─ Art. 53 – Risultanze dei controlli interni
 |  └─ Art. 54 – Norme di rinvio e finali
 |  └─ Art. 55 – Entrata in vigore
