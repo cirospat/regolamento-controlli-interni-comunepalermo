@@ -63,3 +63,12 @@ Per la misurazione del raggiungimento degli obiettivi operativi si dovranno indi
    - c) **la verifica dei risultati ottenuti e refertazione finale**: consiste nell’analisi ed elaborazione dei dati raccolti al fine dell’accertamento del grado di raggiungimento degli obiettivi operativi di PEG, mediante confronto tra valore preventivato e valore effettivo e nella predisposizione dei conti economici riferiti ai servizi a domanda individuale e del Rapporto di Gestione destinato agli Amministratori, al Direttore Generale ove nominato, al Segretario Generale, ai dirigenti ed al Nucleo di Valutazione, o analogo Organismo Indipendente di Valutazione, nonché alla sezione regionale di controllo della Corte dei Conti, così come previsto dagli artt. 198 e 198 bis del D. Lgs. n. 267/00.
 
 
+## Art. 18 – Il Sistema degli indicatori
+A ciascun obiettivo operativo deve essere associato un indicatore, inteso come parametro quantitativo o temporale idoneo a misurarne il raggiungimento. Gli indicatori devono essere comprensibili, disponibili, completi e coerenti con il relativo obiettivo.
+A seconda della specificità di ciascun servizio e dei relativi obiettivi, si possono individuare:
+
+a) indicatori di “attività o di processo” che misurano l’attività fornita in termini di quantità di prodotto;
+
+b) indicatori di “efficacia” che misurano il rapporto tra i risultati effettivi e gli obiettivi programmati, in termini fisici, temporali o finanziari;
+
+c) indicatori di “efficienza” che misurano, per le attività, il rapporto tra i risultati effettivi e le risorse a disposizione (finanziarie, economiche, umane e/o materiali) e, per i processi, i tempi o le fasi richieste per il loro completamento;
