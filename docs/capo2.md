@@ -14,11 +14,11 @@ Il dirigente responsabile del servizio procedente esercita il controllo preventi
 Il Responsabile del servizio finanziario rilascia il visto di regolarità contabile attestante la copertura finanziaria secondo le modalità indicate nel regolamento di contabilità nel tempo vigente.
 Sulle proposte di determinazioni sindacali, il Segretario Generale o suo delegato, per il tramite di un Ufficio appositamente istituito all’interno del proprio Staff, verifica che:
 
-   a. l’atto rientri tra le competenza del Sindaco;
+    a. l’atto rientri tra le competenza del Sindaco;
    
-   b. la proposta sia formulata dal dirigente del servizio competente per materia;
+    b. la proposta sia formulata dal dirigente del servizio competente per materia;
   
-   c. la proposta sia corredata dal visto di regolarità contabile attestante la copertura finanziaria, ove previsto.
+    c. la proposta sia corredata dal visto di regolarità contabile attestante la copertura finanziaria, ove previsto.
 
    Nell’esercizio della superiore attività, il Segretario Generale rappresenta eventuali ulteriori cause di nullità ovvero gravi violazioni di legge e/o palesi irregolarità ostative all’adozione dell’atto.
 
@@ -28,11 +28,11 @@ Sulle proposte di determinazioni sindacali, il Segretario Generale o suo delegat
 
 5. Ai fini della regolare adozione in sede deliberante dei provvedimenti di Giunta e di Consiglio, il Segretario Generale con il supporto del medesimo ufficio previsto al precedente comma 2, provvede, previamente alle relative adunanze in sede deliberante, a verificare che:
 
-   a. l’atto rientri tra le competenze dell’organo politico collegiale deliberante;
-   
-   b. la proposta sia corredata dai prescritti pareri di regolarità tecnica e contabile e, ove previsto, da parte di altri organi;
-   
-   c. la proposta non sia affetta da cause di nullità ovvero gravi violazioni di legge e/o palesi irregolarità ostative all’adozione dell’atto.
+    a. l’atto rientri tra le competenze dell’organo politico collegiale deliberante;
+    
+    b. la proposta sia corredata dai prescritti pareri di regolarità tecnica e contabile e, ove previsto, da parte di altri organi; 
+    
+    c. la proposta non sia affetta da cause di nullità ovvero gravi violazioni di legge e/o palesi irregolarità ostative all’adozione dell’atto.
 
    Per le proposte deliberative di Giunta la superiore verifica ha luogo sempre che le stesse pervengano allo Staff del Segretario Generale almeno 48 ore lavorative antecedenti alla data dell’avviso di convocazione e, in tal caso, per le proposte pervenute nel suddetto termine il Segretario Generale, al fine di rappresentare eventuali ulteriori cause di nullità ovvero gravi violazioni di legge e/e palesi irregolarità, valuta l’opportunità di allegare alla proposta deliberativa, a supporto della Giunta, una scheda ove esporre le motivazioni e le argomentazioni giuridiche ritenute ostative alla adozione dell’atto. Analoga scheda potrà essere predisposta ed allegata alle proposte deliberative da adottarsi da parte del Consiglio Comunale.
 
@@ -46,13 +46,13 @@ Qualora la Giunta abbia ugualmente adottato il provvedimento deliberativo propos
 2. Il controllo di regolarità amministrativa in fase successiva si attua sotto la direzione del Segretario Generale, che a tal fine si avvale di apposita struttura organizzativa operante presso l’Ufficio di Staff del Segretario Generale e composta da personale dallo stesso individuato. La composizione della predetta struttura potrà essere integrata per la partecipazione alle singole sedute, con disposizione del Segretario Generale, da personale appartenente a strutture diverse dalla Segreteria Generale.
 3. Sono soggette al controllo successivo:
    
-   a. le determinazioni dirigenziali di impegno di spesa;
+    a. le determinazioni dirigenziali di impegno di spesa; 
+    
+    b. i contratti non stipulati in forma pubblica amministrativa con l’intervento del Segretario Generale, quale ufficiale rogante;
    
-   b. i contratti non stipulati in forma pubblica amministrativa con l’intervento del Segretario Generale, quale ufficiale rogante;
+    c. gli atti amministrativi di cui all’art. 1, comma 16, lettere a), b), c) e d) della legge 190/2012 e s.m.i.
    
-   c. gli atti amministrativi di cui all’art. 1, comma 16, lettere a), b), c) e d) della legge 190/2012 e s.m.i.
-   
-   d. il controllo può altresì riguardare gli ulteriori atti riconducibili alle attività esposte a maggiore rischio di corruzione individuate nel piano di cui al comma 5, lett. a) del medesimo articolo 1 della legge 190/2012 e s.m.i..
+    d. il controllo può altresì riguardare gli ulteriori atti riconducibili alle attività esposte a maggiore rischio di corruzione individuate nel piano di cui al comma 5, lett. a) del medesimo articolo 1 della legge 190/2012 e s.m.i..
 
 4. I limiti percentuali o numerici degli atti indicati nel presente articolo da sottoporre a controllo di regolarità amministrativa sono stabiliti, di anno in anno, dall’organo esecutivo su proposta del Segretario Generale.
 
@@ -61,15 +61,15 @@ Qualora la Giunta abbia ugualmente adottato il provvedimento deliberativo propos
 1. Gli atti ed i provvedimenti amministrativi oggetto del controllo vengono scelti secondo una selezione casuale effettuata mediante utilizzo di apposito software o attraverso estrazione a sorte o altra tecnica di campionamento comunque idonea ad assicurare una individuazione obiettiva degli atti da esaminare.
 2. Il controllo è svolto con riferimento ai seguenti parametri:
 
-   a. rispetto delle leggi con particolare riferimento alle norme sui vizi dell'atto amministrativo;
+    a. rispetto delle leggi con particolare riferimento alle norme sui vizi dell'atto amministrativo;
 
-   b. rispetto delle norme interne dell'Ente (Statuto, Regolamenti...), con particolare riferimento al rispetto dei termini di conclusione del procedimento;
+    b. rispetto delle norme interne dell'Ente (Statuto, Regolamenti...), con particolare riferimento al rispetto dei termini di conclusione del procedimento;
 
-   c. rispetto dei contratti collettivi nazionali e decentrati di lavoro;
+    c. rispetto dei contratti collettivi nazionali e decentrati di lavoro;
 
-   d. correttezza e regolarità delle procedure;
+    d. correttezza e regolarità delle procedure;
 
-   e. correttezza formale nella redazione dell’atto. Il controllo attiene anche alla chiarezza del linguaggio ed alla coerenza della struttura degli atti amministrativi, alla facilità di accesso alla documentazione amministrativa ed al grado di partecipazione al procedimento.
+    e. correttezza formale nella redazione dell’atto. Il controllo attiene anche alla chiarezza del linguaggio ed alla coerenza della struttura degli atti amministrativi, alla facilità di accesso alla documentazione amministrativa ed al grado di partecipazione al procedimento.
 
 3. Il controllo di cui al presente articolo viene espletato dalla struttura organizzativa di cui al comma 2 del superiore art.5 che, a tal fine, utilizza apposite schede analitiche di controllo, costruite sulla base dei parametri di cui al comma precedente.
 4. Al fine di consentire il migliore espletamento del controllo, la struttura organizzativa di cui al comma 2 del superiore art.5, può richiedere chiarimenti in merito agli atti adottati. I chiarimenti dovranno essere forniti entro il termine di cinque giorni dalla richiesta.
