@@ -164,7 +164,9 @@ Per l’esercizio di detto controllo l’Amministrazione si avvale degli Uffici 
 
 
 ## Art. 44 – Controllo ex ante
-Contratto di servizio
+
+**Contratto di servizio**
+
 Il contratto di servizio rappresenta lo strumento fondamentale attraverso il quale sono disciplinati i rapporti giuridici tra l’Ente e le Società partecipate strumentali e/o affidatarie di servizi pubblici locali esternalizzati secondo le modalità previste dalla normativa comunitaria, dal D. Lgs 267/2000 e s.m.i., dalle normative di settore.
 I contratti di servizio possono contenere tutte le clausole ritenute più idonee al conseguimento degli obiettivi preposti dall’Amministrazione, comprese eventuali clausole sanzionatorie da applicarsi nei casi d’inadempimento degli obblighi assunti, ma devono contenere obbligatoriamente:
 1. Termini temporali del rapporto;
@@ -176,5 +178,69 @@ I contratti di servizio possono contenere tutte le clausole ritenute più idonee
 7. L’obbligo per il gestore di monitorare, in relazione agli standard stabiliti, la qualità del servizio erogato e la qualità del servizio percepito dall’utenza;
 8. Le modalità di verifica del rispetto degli obblighi contrattuali da effettuarsi tramite rapporti periodici e con l’attivazione di cruscotti informatizzati, resi disponibili in modalità web, all’ufficio competente che potrà disporre di tutte le informazioni necessarie;
 9. Penali da applicare proporzionalmente in rapporto all’inadempimento o al mancato rispetto dei livelli di servizio concordati.
+
 Lo schema di contratto dei servizi è approvato dalla Giunta Comunale nel rispetto delle linee d’indirizzo e degli obiettivi contenuti nei documenti di programmazione dell’Ente deliberati dal Consiglio Comunale.
 I contratti di servizio dovranno essere revisionati ove necessario in ragione di sopravvenute nuove prescrizioni introdotte dal modificato quadro normativo.
+
+**Carta dei servizi**
+
+La carta dei servizi costituisce uno strumento essenziale e imprescindibile di specificazione dei principi e degli standard cui deve essere uniformata l’erogazione dei pubblici servizi locali esternalizzati, a tutela della qualità e dei bisogni dell’utenza di riferimento, nel rispetto delle esigenze di efficienza ed imparzialità dell’azione amministrativa ed a garanzia della partecipazione del cittadino utente al processo di erogazione del servizio pubblico.
+La Carta dei servizi delle Società deve contenere standard qualitativi equivalenti a quelli utilizzati per la Carta dei Servizi dell’Amministrazione Comunale e deve essere compilata e resa disponibile in modalità web.
+Alla disponibilità dell’applicativo deve essere associato un indicatore per la misurazione del livello di servizio ed il calcolo di eventuali penali da prevedere espressamente nei singoli Contratti di servizio.
+La carta dei servizi, predisposta a cura del soggetto gestore nel rispetto delle previsioni contenute nel contratto di servizio e approvata dai competenti organi societari, è trasmessa all’Ente per la necessaria presa d’atto da parte dell’ufficio competente.
+La stessa sarà soggetta a periodica revisione con modalità e tempi da individuarsi nella medesima carta.
+
+## Art. 45 – Controllo Concomitante
+
+**Monitoraggio dei servizi erogati**
+
+Il controllo sulla corretta gestione dei contratti di servizio è svolto dai diversi Uffici dell’Amministrazione competenti per materia individuati dal R.O.U.S.
+A tal fine le società trasmettono agli uffici titolari dei contratti o disciplinari del servizio rapporti periodici sulle prestazioni effettuate evidenziando eventuali criticità gestionali e scostamenti rispetto agli impegni contrattuali e sulle misure adottate per assicurare il rispetto di eventuali limiti o vincoli di legge.
+Il monitoraggio dei livelli di servizio e degli indicatori di qualità della prestazione resa deve essere svolto attraverso un’applicazione web, resa disponibile agli uffici preposti al controllo, che deve consentire di collegare i servizi ai relativi indicatori selezionati per monitorare gli obblighi assunti dalla società nei confronti del cittadino/utente con la carta dei servizi.
+Della costruzione dei cruscotti informatici di monitoraggio deve essere fornita evidenza sulle modalità di realizzazione e alimentazione.
+Gli uffici tecnici terranno conto dell’esito delle verifiche per l’applicazione delle penali contrattualmente previste.
+
+
+## Art. 46 – Controllo ex post
+
+**Qualità dei servizi erogata**
+
+Le società trasmettono allegata alla previsioni di budget una relazione annuale sul livello qualitativo dei servizi prestati in relazione agli standard stabiliti dai contratti o dalle carte di servizio, tale relazione dà anche conto della soddisfazione dell'utenza interna od esterna rilevata attraverso apposite indagini e sondaggi, predisposti in accordo con uffici comunali affidanti i servizi.
+Alla fine di ogni anno attraverso l’applicazione web utilizzata per il monitoraggio degli indicatori, inoltre, sarà prodotto un report finale per il monitoraggio della qualità dei servizi erogati nell’anno solare di riferimento, necessario per la liquidazione dei corrispettivi a saldo posti a garanzia.
+
+**Qualità dei servizi percepita**
+
+Il Comune di Palermo può, con proprie strutture e nei modi e con la periodicità prevista nel presente Regolamento, predisporre indagini di Customer Satisfaction dell’utenza interna e/o esterna per i servizi resi dalle società partecipate strumentali o gestori di pubblici servizi esternalizzati e ne pubblica i risultati sul Sito Istituzionale.
+
+
+
+## Art. 47 – Risultanze del controllo
+I Dirigenti dei servizi, che hanno eseguito il controllo, sottopongono alla Giunta Comunale una relazione annuale sul livello quali-quantitativo dei servizi prestati dalle società e su eventuali azioni correttive poste in essere unitamente ai report di verifica entro il 31 marzo dell’anno successivo.
+
+
+### Titolo V - Controllo ispettivo ed informativo
+
+## Art. 48 – Poteri ispettivi
+1. Il Comune può eseguire specifiche visite ispettive presso la sede sociale ovvero presso altri luoghi ove si erogano i servizi. La visita ispettiva può consistere sia in mere attività di colloquio e richiesta, verbale o scritta, di precisazioni, dati ed informazioni nei confronti degli organi societari e/o direzionali del soggetto gestore, sia nell’accesso fisico ai luoghi di produzione e/o erogazione dei servizi medesimi. La visita ispettiva dovrà essere motivata dalla necessità di acquisire e verificare direttamente dati, elementi, operazioni e modalità tecnico-pratiche o gestionali inerenti l’espletamento dell’attività di produzione ed erogazione del servizio, non diversamente evincibili per mezzo delle attività di cui al successivo articolo 49.
+2. Le visite ispettive possono essere effettuate a cura del servizio competente ratione materiae secondo il R.O.U.S. vigente, di propria iniziativa quando ritenuto opportuno, in caso di segnalazioni e/o esposti da parte di terzi o su richiesta del Segretario Generale.
+3. Alla visita ispettiva, effettuata per mezzo di personale dotato dei requisiti professionali necessari, può collaborare od assistere uno o più rappresentanti degli organi societari, coadiuvati da eventuale personale dipendente. La visita ispettiva deve essere preceduta da specifica comunicazione, formulata dall’ufficio procedente, con l’indicazione sommaria dei luoghi e dei tempi previsti per la verifica.
+4. La visita ispettiva può essere effettuata da singoli consiglieri nell’esercizio delle proprie funzioni.
+
+
+## Art. 49 – Richiesta rapporti, dati ed informazioni
+1. Il Comune può richiedere la redazione di specifici rapporti in relazione a fatti, atti e/o decisioni tecniche, strategiche e/o gestionali adottate.
+2. L’organo amministrativo della società partecipata deve fornire adeguata risposta scritta, corredata di elaborazioni, analisi e valutazioni che il caso richiede, all’Amministrazione comunale entro 30 giorni dalla richiesta o, comunque, entro i maggiori termini fissati dall’Amministrazione.
+3. Il Comune può anche richiedere la trasmissione di ogni atto e/o documento inerenti l’attività di produzione ed erogazione del servizio che dovrà essere riscontrata dall’organo amministrativo della società partecipata entro 7 giorni dalla richiesta o, comunque, entro i maggiori termini fissati dall’Amministrazione.
+
+
+## Art. 50 – Referto sul controllo ispettivo ed informativo
+1. I Dirigenti dei servizi che hanno proceduto al controllo ispettivo ed informativo trasmettono annualmente al Sindaco, alla Giunta comunale ed al Presidente del Consiglio comunale e per suo tramite ai gruppi consiliari un report che dia contezza dell’esito delle attività svolte.
+
+
+
+## Art. 51 – Gruppo di controllo dell’efficienza degli addetti alle partecipate
+1. Il Dirigente Responsabile Ufficio Relazione Esterne - Staff del Sindaco o del Servizio competente così come individuato dal R.O.U.S. vigente, su delega del Sindaco coordina il “Gruppo di controllo dell’efficienza degli addetti alle partecipate” che effettua i relativi controlli al fine di prevenire atti e/o comportamenti che possono determinare la responsabilità dell’Ente per i reati commessi nel suo interesse o a suo vantaggio secondo quanto disposto dal D.lgs. 231/2001 e s.m.i.
+2. Le attività del gruppo sono svolte secondo quanto disposto dagli articoli 48 e seguenti del presente Regolamento.
+3. Il Gruppo deve essere composto da due funzionari per ogni società partecipata soggetta al controllo analogo, da due funzionari comunali e da due componenti del Corpo di Polizia Municipale.
+4. Il Coordinatore del Gruppo trasmette annualmente al Sindaco, alla Giunta comunale ed al Presidente del Consiglio comunale un report che dia contezza dell’esito delle attività svolte.
+
