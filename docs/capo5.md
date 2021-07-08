@@ -106,6 +106,7 @@ L’Amministrazione Comunale in ragione degli obiettivi strategici e al fine di 
 La redazione del Piano è curata dall’Ufficio Controllo di Qualità che lo sottopone annualmente all’approvazione della Giunta Comunale.
 
 Il Piano della Qualità
+
 - contiene le risultanze della misurazione della qualità resa per tutti i servizi dell’Ente rilevate attraverso l’aggiornamento della Carta dei Servizi nell’anno precedente;
 - contiene le risultanze della misurazione della qualità percepita attraverso le indagini di Customer Satisfaction effettuate nell’anno precedente;
 - le azioni correttive proposte dai dirigenti responsabili dei servizi a fronte delle criticità rilevate a seguito della misurazione della qualità resa e percepita
