@@ -8,7 +8,6 @@
 
 ## Indice
 
-```
 .
 ├─ CAPO I - DISPOSIZIONI GENERALI
 │  └─ Art. 1 - Oggetto del regolamento
@@ -74,4 +73,4 @@
 |  └─ Art. 53 – Risultanze dei controlli interni
 |  └─ Art. 54 – Norme di rinvio e finali
 |  └─ Art. 55 – Entrata in vigore
-```
+
