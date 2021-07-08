@@ -49,13 +49,17 @@ Spetta al Settore Finanziario la predisposizione del *conti economici dei serviz
 ## Art. 17 - Modalità del controllo di gestione
 Le procedure del controllo di gestione si articolano in tre fasi:
 
-a) la programmazione
+a) *la programmazione*
 
-b) la raccolta dei dati
+b) *la raccolta dei dati*
 
-c) la verifica dei risultati ottenuti
+c) *la verifica dei risultati ottenuti*
 
-   a) la programmazione: è l’attività fondamentale di tutto il sistema del controllo di gestione, in quanto la presenza di obiettivi predefiniti è condizione imprescindibile per l’attività di controllo dei risultati. E’ la fase in cui, attraverso l’approvazione da parte della Giunta Comunale del Piano esecutivo di gestione e del Piano della Performance in esso contenuto, vengono assegnate ai centri di responsabilità (Aree/Settori/Servizi/Uffici) le risorse finanziarie e gli obiettivi finalizzati a concretizzare le strategie dell’Ente.
+   - a) **la programmazione**: è l’attività fondamentale di tutto il sistema del controllo di gestione, in quanto la presenza di obiettivi predefiniti è condizione imprescindibile per l’attività di controllo dei risultati. E’ la fase in cui, attraverso l’approvazione da parte della Giunta Comunale del Piano esecutivo di gestione e del Piano della Performance in esso contenuto, vengono assegnate ai centri di responsabilità (Aree/Settori/Servizi/Uffici) le risorse finanziarie e gli obiettivi finalizzati a concretizzare le strategie dell’Ente.
 Per la misurazione del raggiungimento degli obiettivi operativi si dovranno individuare appositi indicatori tra le tipologie descritte all’articolo successivo.
-   b) la raccolta dei dati: consiste in periodiche rilevazioni mediante la raccolta e l’elaborazione dei dati gestionali (contabili ed extracontabili) relativi all’oggetto del controllo e comunque, almeno una volta l’anno a consuntivo;
-   c) la verifica dei risultati ottenuti e refertazione finale: consiste nell’analisi ed elaborazione dei dati raccolti al fine dell’accertamento del grado di raggiungimento degli obiettivi operativi di PEG, mediante confronto tra valore preventivato e valore effettivo e nella predisposizione dei conti economici riferiti ai servizi a domanda individuale e del Rapporto di Gestione destinato agli Amministratori, al Direttore Generale ove nominato, al Segretario Generale, ai dirigenti ed al Nucleo di Valutazione, o analogo Organismo Indipendente di Valutazione, nonché alla sezione regionale di controllo della Corte dei Conti, così come previsto dagli artt. 198 e 198 bis del D. Lgs. n. 267/00.
+   
+   - b) **la raccolta dei dati**: consiste in periodiche rilevazioni mediante la raccolta e l’elaborazione dei dati gestionali (contabili ed extracontabili) relativi all’oggetto del controllo e comunque, almeno una volta l’anno a consuntivo;
+
+   - c) **la verifica dei risultati ottenuti e refertazione finale**: consiste nell’analisi ed elaborazione dei dati raccolti al fine dell’accertamento del grado di raggiungimento degli obiettivi operativi di PEG, mediante confronto tra valore preventivato e valore effettivo e nella predisposizione dei conti economici riferiti ai servizi a domanda individuale e del Rapporto di Gestione destinato agli Amministratori, al Direttore Generale ove nominato, al Segretario Generale, ai dirigenti ed al Nucleo di Valutazione, o analogo Organismo Indipendente di Valutazione, nonché alla sezione regionale di controllo della Corte dei Conti, così come previsto dagli artt. 198 e 198 bis del D. Lgs. n. 267/00.
+
+
