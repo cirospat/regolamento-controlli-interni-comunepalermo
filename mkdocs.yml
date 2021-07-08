@@ -1,8 +1,9 @@
 ## Project information
-site_name: RTD come mi piace
+site_name: Regolamento unico dei controlli interni del comune di Palermo
 site_url: https://rtd-comemipiace.readthedocs.io/it/latest/
-site_description: un bel modo di esporre documentazione online usando .MD
-site_author: Ciro Spataro
+site_description: Regolamento unico dei controlli interni del comune di Palermo
+site_author: comune di Palermo
+
 ## Repository
 repo_url: https://github.com/cirospat/rtd-comemipiace
 repo_name: rtd-comemipiace
@@ -34,20 +35,17 @@ theme:
   
 nav:
   - Home: README.md
-  - 1. Prove pagina: 
-    - 1.1 Prova pagina 0: provapagina0.md
-    - 1.2 Prova pagina 1: provapagina1.md
-    - 1.3 Prova pagina extra: 
-      - 1.3.1 Prova pagina 2: provapagina2.md
-  - 2. Tabelle: 
-    - 2.1 tabelle: tabella.md
-  - 3. Directory macro agomento:
-    - 3.1 micro argomento 1: nomedirectory/nomefile.md
-    - 3.2 micro argomento 2: nomedirectory/nomefile2.md
-    - 3.3 micro argomento 3: nomedirectory/nomefile3.md
-  - 4. More info: 
-    - 4.1 privacy: privacy.md
-    - 4.2 metadati: metadati.md
+  - CAPO I - disposizioni generali: capo1.md
+  - CAPO II - il controllo interno di regolarità amministrayiva e contabile: capo2.md
+  - CAPO III - il controllo strategico: capo3.md
+  - CAPO IV - il controllo di gestione: capo4.md
+  - CAPO V - il controllo sulla qualità dei servizi erogati: capo5.md
+  - CAPO VI - il controllo sulle società partecipate non quotate: capo6.md
+  - CAPO VII - il controllo sugli equilibri finanziari: capo7.md
+  - CAPO VIII - risultanze dai controlli e disposizioni finali: capo8.md
+  - Privacy: 
+    - Privacy: privacy.md
+
 
 plugins:
 - search
@@ -82,15 +80,15 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/cirospat
+      link: https://twitter.com/ComunePalermo
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/cirospat/rtd-comemipiace
+      link: https://github.com/cirospat/regolamento-controlli-interni-comunepalermo
     - icon: fontawesome/solid/envelope
-      link: mailto:cirospat@gmail.com
+      link: mailto:protocollo@cert.comune.palermo.it
     - icon: fontawesome/solid/book
-      link: https://readthedocs.org/projects/rtd-comemipiace/
+      link: https://readthedocs.org/projects/regolamento-unico-controlli-interni-comunepalermo/
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
 ## copiright
-copyright: <a href="https://twitter.com/cirospat" title="Ciro Spataro " target="_blank">Ciro Spataro </a> | 2021 | CC BY 4.0 Int Licence
+copyright: <a href="https://twitter.com/ComunePalermo" title="Comune di Palermo " target="_blank">Comune di Palermo </a> | 2021 | CC BY 4.0 Int Licence
