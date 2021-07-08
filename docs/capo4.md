@@ -67,8 +67,38 @@ Per la misurazione del raggiungimento degli obiettivi operativi si dovranno indi
 A ciascun obiettivo operativo deve essere associato un indicatore, inteso come parametro quantitativo o temporale idoneo a misurarne il raggiungimento. Gli indicatori devono essere comprensibili, disponibili, completi e coerenti con il relativo obiettivo.
 A seconda della specificità di ciascun servizio e dei relativi obiettivi, si possono individuare:
 
-a) indicatori di “attività o di processo” che misurano l’attività fornita in termini di quantità di prodotto;
+   a) indicatori di “*attività o di processo*” che misurano l’attività fornita in termini di quantità di prodotto;
 
-b) indicatori di “efficacia” che misurano il rapporto tra i risultati effettivi e gli obiettivi programmati, in termini fisici, temporali o finanziari;
+   b) indicatori di “*efficacia*” che misurano il rapporto tra i risultati effettivi e gli obiettivi programmati, in termini fisici, temporali o finanziari;
 
-c) indicatori di “efficienza” che misurano, per le attività, il rapporto tra i risultati effettivi e le risorse a disposizione (finanziarie, economiche, umane e/o materiali) e, per i processi, i tempi o le fasi richieste per il loro completamento;
+   c) indicatori di “*efficienza*” che misurano, per le attività, il rapporto tra i risultati effettivi e le risorse a disposizione (finanziarie, economiche, umane e/o materiali) e, per i processi, i tempi o le fasi richieste per il loro completamento;
+   
+   d) indicatori di “*economicità*” che esprimono il grado di copertura dei costi di gestione attraverso un determinato ammontare di proventi, ove esistenti, generati dal servizio stesso;
+   
+   e) indicatori di “*innovazione*” che misurano la partecipazione ad iniziative od attività rivolte a qualificare o innovare l’organizzazione o la metodologia di lavoro.
+   
+   
+   
+## Art. 19 – Raccolta dati e sinergie
+Al fine di consentire lo svolgimento delle attività relative al controllo di gestione, l’Amministrazione dovrà dotarsi di un adeguato sistema informatico che consenta la raccolta, la classificazione, l’elaborazione e la conservazione dei dati contabili ed extracontabili da gestire. L’integrazione fra i vari sistemi per lo scambio dei dati e delle informazioni, dovrà essere finalizzata ad evitare duplicazioni nei processi di raccolta e trattamento dei dati e, contemporaneamente, ad accrescere il livello di informatizzazione e di razionalità delle decisioni dell’Ente.
+Nelle more dell’acquisizione e messa a regime di tale sistema informatico, l’Unità preposta al controllo di gestione potrà operare annualmente, a consuntivo, rispetto alle attività svolte.
+
+Fino all’applicazione della contabilità economica analitica il controllo di gestione andrà a valutare l’attività sotto il profilo dell’efficienza e dell’efficacia, mentre la valutazione circa l’economicità potrà essere effettuata per alcuni centri di responsabilità e per alcune macro attività.
+
+La contabilità analitica è una tecnica che consente di analizzare le singole operazioni di gestione rilevando i valori al momento dell’utilizzazione dei fattori produttivi, seguendo il principio di classificazione per destinazione e/o provenienza secondo l’unità elementare (centro di costo di gestione) e secondo la natura, cioè sulla base del titolo originario di sostenimento dei costi e di conseguimento dei ricavi.
+
+
+
+## Art. 20 – Risultanze del controllo di gestione
+Le risultanze del controllo di gestione sono rappresentate dal Referto del Controllo di Gestione (denominato Rapporto di Gestione) e dai conti economici dei servizi a domanda individuale.
+La Ragioneria Generale cura la predisposizione dei conti economici sopradetti, mentre l’Unità preposta al controllo di gestione cura la predisposizione del Referto del Controllo di Gestione e la sua trasmissione, dopo l’approvazione del documento da parte della Giunta Comunale, a tutti i destinatari indicati agli artt. 198 e 198 bis del D. Lgs. n. 267/00:
+- Amministratori dell’Ente,
+- Direttore Generale,
+- Segretario Generale,
+- Dirigenti dell’Ente
+- Nucleo di Valutazione (o analogo Organismo Indipendente di Valutazione),
+- nonché alla sezione regionale di controllo della Corte dei Conti.
+- al Presidente del Consiglio Comunale e per suo tramite ai gruppi consiliari.
+Degli esiti di tale controllo si tiene conto anche ai fini della redazione del Referto ex art. 148 del D. Lgs. 267/00 da inviare alla Sezione di Controllo della Corte dei Conti, di cui al successivo art.53.
+   
+   
