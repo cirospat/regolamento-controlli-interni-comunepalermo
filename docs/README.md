@@ -13,6 +13,7 @@
 ├─ CAPO I - DISPOSIZIONI GENERALI
 │  └─ Art. 1 - Oggetto del regolamento
 |  └─ Art. 2 – Sistema dei controlli interni e finalità
+|
 └─ CAPO II - IL CONTROLLO INTERNO DI REGOLARITÀAMMINISTRATIVA E CONTABILE
 |  └─ Art. 3 – Controllo di regolarità amministrativa e contabile
 |  └─ Art. 4 – Controllo di regolarità amministrativa e contabile in 
@@ -21,6 +22,7 @@
 |  └─ Art. 6 – Modalità del controllo di regolarità amministrativa 
 |              in fase successiva
 |  └─ Art. 7 – Risultanze del controllo
+|
 └─ CAPO III - IL CONTROLLO STRATEGICO
 |  └─ Art. 8 – Definizione del controllo strategico
 |  └─ Art. 9 – Finalità del controllo strategico
@@ -29,6 +31,7 @@
 |               controllo strategico
 |  └─ Art. 12 - Modalità del controllo strategico
 |  └─ Art. 13 - Periodicità del controllo strategico
+|
 └─ CAPO IV - IL CONTROLLO DI GESTIONE
 |  └─ Art. 14 - Definizione del controllo di gestione
 |  └─ Art. 15 - Finalità del controllo di gestione
@@ -38,6 +41,7 @@
 |  └─ Art. 18 – Il Sistema degli indicatori
 |  └─ Art. 19 – Raccolta dati e sinergie
 |  └─ Art. 20 – Risultanze del controllo di gestione
+|
 └─ CAPO V - IL CONTROLLO SULLA QUALITÀ DEI SERVIZI EROGATI
 |  └─ Art. 21 – Finalità del controllo di qualità
 |  └─ Art. 22 – Soggetti responsabili
@@ -46,6 +50,7 @@
 |  └─ Art. 25 - Il Piano della Qualità
 |  └─ Art. 26 - Periodicità dei controlli di qualità
 |  └─ Art. 27 – Risultanze del controllo
+|
 └─ CAPO VI - IL CONTROLLO SULLE SOCIETÀ PARTECIPATE NON QUOTATE
 |  └─ Art. 28 – Oggetto
 |  └─ Art. 29 – Ambito di applicazione
@@ -75,8 +80,10 @@
 |  └─ Art. 50 – Referto sul controllo ispettivo ed informativo
 |  └─ Art. 51 – Gruppo di controllo dell’efficienza degli addetti 
 |               alle partecipate
+|
 └─ CAPO VII - CAPO VII - IL CONTROLLO SUGLI EQUILIBRI FINANZIARI
-|  └─ Art. 52 –Il controllo sugli equilibri finanziari
+|  └─ Art. 52 – Il controllo sugli equilibri finanziari
+|
 └─ CAPO VIII - RISULTANZE DAI CONTROLLI E DISPOSIZIONI FINALI
 |  └─ Art. 53 – Risultanze dei controlli interni
 |  └─ Art. 54 – Norme di rinvio e finali
