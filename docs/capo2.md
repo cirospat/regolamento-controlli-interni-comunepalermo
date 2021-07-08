@@ -27,6 +27,7 @@ Sulle proposte di determinazioni sindacali, il Segretario Generale o suo delegat
 4. Il controllo di regolarità contabile sulle deliberazioni del Consiglio e della Giunta - che non siano atti di mero indirizzo – è effettuato, al ricorrere delle condizioni e con le modalità di cui alle vigenti disposizioni di legge e di regolamento, dal responsabile del servizio finanziario attraverso il rilascio del parere di regolarità contabile sulla proposta di deliberazione, secondo le previsioni di cui all’art. 49 del D. Lgs. n. 267/2000 e s.m.i.
 
 5. Ai fini della regolare adozione in sede deliberante dei provvedimenti di Giunta e di Consiglio, il Segretario Generale con il supporto del medesimo ufficio previsto al precedente comma 2, provvede, previamente alle relative adunanze in sede deliberante, a verificare che:
+
    a. l’atto rientri tra le competenze dell’organo politico collegiale deliberante;
    
    b. la proposta sia corredata dai prescritti pareri di regolarità tecnica e contabile e, ove previsto, da parte di altri organi;
