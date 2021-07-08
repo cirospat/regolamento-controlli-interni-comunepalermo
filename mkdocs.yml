@@ -5,13 +5,13 @@ site_description: Regolamento unico dei controlli interni del comune di Palermo
 site_author: comune di Palermo
 
 ## Repository
-repo_url: https://github.com/cirospat/rtd-comemipiace
-repo_name: rtd-comemipiace
+repo_url: https://github.com/cirospat/regolamento-controlli-interni-comunepalermo
+repo_name: regolamento-controlli-interni-comunepalermo
 edit_uri: edit/master/docs/
 
 theme:
   name: "material"
-  logo: images/logo3.png
+  logo: images/palermologo.png
   palette:
     - scheme: default
       primary: indigo
