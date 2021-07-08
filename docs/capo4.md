@@ -92,6 +92,7 @@ La contabilità analitica è una tecnica che consente di analizzare le singole o
 ## Art. 20 – Risultanze del controllo di gestione
 Le risultanze del controllo di gestione sono rappresentate dal Referto del Controllo di Gestione (denominato Rapporto di Gestione) e dai conti economici dei servizi a domanda individuale.
 La Ragioneria Generale cura la predisposizione dei conti economici sopradetti, mentre l’Unità preposta al controllo di gestione cura la predisposizione del Referto del Controllo di Gestione e la sua trasmissione, dopo l’approvazione del documento da parte della Giunta Comunale, a tutti i destinatari indicati agli artt. 198 e 198 bis del D. Lgs. n. 267/00:
+
 - Amministratori dell’Ente,
 - Direttore Generale,
 - Segretario Generale,
